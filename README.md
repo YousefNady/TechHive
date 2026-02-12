@@ -24,7 +24,7 @@ To ensure compliance with corporate policies, the following middleware were impl
 * Handled edge cases like searching for non-existent user IDs.
 
 ## 🛠 Tech Stack
-* **Framework:** .NET 8.0 / 9.0 (ASP.NET Core Minimal API)
+* **Framework:** .NET 8.0 (ASP.NET Core Minimal API)
 * **Language:** C#
 * **Tooling:** Microsoft Copilot, Visual Studio, Swagger/OpenAPI
 
